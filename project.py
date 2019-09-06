@@ -1,5 +1,5 @@
 import cx_Oracle
-con=cx_Oracle.connect('system/td1998@localhost')
+con=cx_Oracle.connect('username/password@localhost')
 cur=con.cursor()
 class trader:
     def __init__(self):
