@@ -170,12 +170,3 @@ t.pay()
 t.logout()                    
 con.commit()
 con.close()
-
-
-        
-                    
-        
-                        
-        
-        
-        
